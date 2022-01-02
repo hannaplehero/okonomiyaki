@@ -6,4 +6,5 @@ reset soft
 adding diff
 more diff
 hoge hoge
-
+test test
+camera
